@@ -22,6 +22,10 @@ tasto.addEventListener("click",
     let stampa= document.getElementById("title");
     stampa.innerHTML="Avete pareggiato";
     }
+    let stNumPlayer=document.getElementById("numeroplayer").innerHTML=`Il tuo numero da 1 a 6 è ${numPlayer}` ;
+    let stNumPc=document.getElementById("numeropc").innerHTML=`Il numero del pc da 1 a 6 è ${numPc}` ;
   }
+   
 
 );
+
