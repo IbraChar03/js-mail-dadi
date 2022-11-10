@@ -4,8 +4,6 @@ let invitato=false;
 
 for(let i=0; i< email.length;i++){
     if(email[i] === emailnuova){
-        // let stampa=document.getElementById("title");
-        // stampa.innerHTML="sei nella lista degli invitati";
         invitato=true;
     }
 
