@@ -1,4 +1,4 @@
-const email=["luca@gmail.com", "mario@gmail.com"];
+const email=["luca@gmail.com", "mario@gmail.com", "fabio@gmail.com", "andrea@gmail.com"];
 let emailnuova= prompt("inserisci la tua email:");
 let Invitato=false;
 
