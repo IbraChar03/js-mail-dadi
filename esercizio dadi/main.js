@@ -12,7 +12,7 @@ tasto.addEventListener("click",
 //condizione
     if(numPlayer > numPc){
     let stampa= document.getElementById("title");
-    stampa.innerHTML="Ha vinto il player";
+    stampa.innerHTML="Hai vinto tu";
     }
     else if(numPlayer < numPc){
     let stampa= document.getElementById("title");
